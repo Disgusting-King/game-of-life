@@ -1,0 +1,22 @@
+{
+    "settings": {
+        "display_width": 1000,
+        "display_height": 700,
+        "fps": 15,
+        "board_rows": 70,
+        "board_columns": 100,
+        "title": "Conway's Game of Life",
+        "have_boundaries": 0
+    },
+    "colors": {
+        "background": [255, 255, 255],
+        "cell_dead_color": [0, 0, 0],
+        "cell_living_color": [255, 255, 255]
+    },
+    "presets": {
+        "conway": "B3/S23",
+        "highlife": "B36/S23",
+        "day_night": "B3678/S345678",
+        "seeds": "B2/S"
+    }
+}
